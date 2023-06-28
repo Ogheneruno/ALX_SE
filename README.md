@@ -1,2 +1,1 @@
-# ALX_SE
-for ALS-SE course
+My first readme
